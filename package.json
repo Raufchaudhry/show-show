@@ -1,34 +1,21 @@
 {
-  
-  
   "dependencies": {
-  
-  
-    
-  
-  "github-pages": "^3.0.2",
-  
-  
-    
-  
-  "react-icons": "^5.0.1",
-  
-  
-    
-  
-  "react-scroll": "^1.9.0"
-  
-  
+    "deploy": "^1.0.3",
+    "github-pages": "^0.1.0",
+    "react-icons": "^5.0.1",
+    "react-scroll": "^1.9.0"
   },
-  
-  
   "devDependencies": {
-  
-  
-    
-  
-  "gh-pages": "^6.1.1"
-  
-  
-  }
+    "gh-pages": "^6.1.1"
+  },
+  "name": "js-react-folder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
